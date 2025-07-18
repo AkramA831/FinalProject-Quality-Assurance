@@ -1,0 +1,19 @@
+{
+  "name": "finalproject-quality-assurance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.2.0",
+    "cucumber": "^6.0.7",
+    "cypress": "^14.5.2",
+    "cypress-mochawesome-reporter": "^4.0.0",
+    "prettier": "^3.6.2"
+  }
+}
